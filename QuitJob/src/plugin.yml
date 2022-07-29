@@ -1,0 +1,7 @@
+main: me.HybridPlague.QuitJob.Main
+name: QuitJob
+author: HybridPlague
+version: 1.0
+
+commands:
+  QuitJob:
